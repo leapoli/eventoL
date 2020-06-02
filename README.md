@@ -1,5 +1,7 @@
-EventoL
-=======
+EventoL 3.0
+===========
+
+**Development version**
 
 EventoL is a event management software initially developed to manage [FLISoL](http://flisol.info/) conference.
 
@@ -36,3 +38,5 @@ Configure Own server
 
 - See [Installation Instructions](http://eventol.github.io/eventoL/#/en/installation)
 - See [Deploy Instructions](http://eventol.github.io/eventoL/#/en/deploy)
+
+

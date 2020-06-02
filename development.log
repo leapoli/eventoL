@@ -1,0 +1,12 @@
+Instalaciones de pip que funcionaron:
+
+    pip install --upgrade "django>=2.2,<3"
+
+    pip install git+https://github.com/eventoL/django-forms-builder.git --upgrade
+
+    pip uninstall django-filter && pip install "django-filter>2"
+
+
+En este punto no es pobile continuar porque djangorestframework-filters no tiene soporte para Django 2:
+
+    pip uninstall djangorestframework-filters && pip install "djangorestframework-filters>2" 
